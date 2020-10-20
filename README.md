@@ -3,3 +3,26 @@ Repository for Rachel Ramey, Doctoral Student at University of Georgia Departmen
 
 https://www.terry.uga.edu/directory/marketing/rachel-ramey.html
 
+## Updates as of October 19th
+
+#### Step 1
+
+
+
+#### Step 2
+
+
+
+#### Step 3
+
+
+
+#### Step 4
+
+
+
+#### Step 5
+
+
+
+
