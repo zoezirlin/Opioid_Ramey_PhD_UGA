@@ -1,0 +1,22 @@
+To Do List
+
+-	Data Management of arcos_all_washpost.tsv
+-	This is a dataset of all opioid shipments to every pharmacy in the United States from 2006-2014. 
+-	It is 74.5 GB
+-	I would like the dataset in the following format
+o	Panel dataset by county and monthyears
+o	Time in month years. The month format should be 2006m1 for January 2006
+o	Transaction_date is the original transaction date, collapse it into monthyears
+-	I would like the following variables
+o	State (Abbreviations: MA= Massachusetts)
+o	County name all caps
+o	County FIPS in the following format “AK090”
+	Alaska, Fair Banks Northstar
+	http://www.naarep.com/agentsite/training/templates/FIPS.pdf
+o	I want the following variables in total Purdue Dosage_unit, Purdue_MME, and Purdue Volume as well as Industry_Dosage_unit, Industry_MME, and Industry_Volume. 
+	Industry means that it includes all companies except purdue. Drop the Purdue values then collapse it. It would be the total in the industry excluding Purdue
+	If Combined Labeler Name==Purdue Pharma LP, then it is a purdue transaction. There is another variable in the original dataset that has Purdue, I forget which variable it is. If any column has Purdue in it, please count it as Purdue totals and exclude it from Industry Totals
+	Dosage_unit (this is the number of pills per county per monthyear)
+	MME= Volume of Morphine mg Equivalent, this is Dosage_unit*MME*dos_str in the original dataset
+	Volume of pills= dosage_unit*dos_str
+-	Combined Labeler Name==Purdue Pharma LP
