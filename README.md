@@ -1,5 +1,5 @@
 # Opioid_Ramey_PhD_UGA
-Repository for Rachel Ramey, Doctoral Student at University of Georgia Department of Marketing, supported by Zoe Zirlin (UGA MMR), measuring the impact of marketing pharmaceuticals on the American opioid epidemic.
+PhD research data management repository for Rachel Ramey, Doctoral Student at University of Georgia Department of Marketing, measuring the impact of marketing pharmaceuticals on the American opioid epidemic. Current data programming conducted by Zoe Zirlin (UGA MMR).
 
 https://www.terry.uga.edu/directory/marketing/rachel-ramey.html
 
