@@ -3,7 +3,7 @@ PhD research data management repository for Rachel Ramey, Doctoral Student at Un
 
 https://www.terry.uga.edu/directory/marketing/rachel-ramey.html
 
-## Updates as of October 19th: programming steps so far
+## Updates as of October 22nd: Programming steps so far
 Zoe Zirlin, Oct. 20 2020
 
 #### Step 1
