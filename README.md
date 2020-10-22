@@ -38,6 +38,20 @@ Creating a new column labeling the binary option of PURDUE or INDUSTRY, to segme
 
 
 #### Step 8
-The next steps are:
-- To create variables MME_PURDUE, MME_INDUSTRY, DOSAGE_PURDUE, DOSAGE_INDUSTRY, VOLUME_PURDUE, VOLUME_INDUSTRY
-- Insert FIP codes ("AK090") in specific format necessitated by eventual project data merging into another government DF, (http://www.naarep.com/agentsite/training/templates/FIPS.pdf) 
+Importing the FIPS codes to be merged into state dataframe
+
+
+#### Step 9.A
+Creating the final state dataframe A by aggregating data into pivot table (with either purdue or industry exploded into their own 3 variables)
+
+#### Step 9.B
+Creating the final state dataframe B by aggregating data into pivot table (with all of the pharma companies exploded into their own 3 variables)
+
+
+
+#### Step 10
+Finalizing the variable/column names and exporting into the state's own CSV file 😊
+
+
+#### Step 11
+Once each state has its own CSV file, concatenate all 50 files one on top of the other for final set
