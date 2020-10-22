@@ -4,7 +4,7 @@ PhD research data management repository for Rachel Ramey, Doctoral Student at Un
 https://www.terry.uga.edu/directory/marketing/rachel-ramey.html
 
 ## Updates as of October 22nd: Programming steps so far
-Zoe Zirlin, Oct. 20 2020
+Zoe Zirlin, Oct. 22 2020
 
 #### Step 1
 Importing the state CSV file, downloaded from https://www.washingtonpost.com/graphics/2019/investigations/dea-pain-pill-database/. 
