@@ -48,10 +48,9 @@ Creating the final state dataframe A by aggregating data into pivot table (with 
 Creating the final state dataframe B by aggregating data into pivot table (with all of the pharma companies exploded into their own 3 variables)
 
 
-
 #### Step 10
 Finalizing the variable/column names and exporting into the state's own CSV file 😊
 
 
 #### Step 11
-Once each state has its own CSV file, concatenate all 50 files one on top of the other for final set
+Concatenate all files into 2 CSV files! :)
