@@ -3,6 +3,10 @@ PhD research data management repository for Rachel Ramey, Doctoral Student at Un
 
 https://www.terry.uga.edu/directory/marketing/rachel-ramey.html
 
+
+FOR DOCUMENTATION INFORMATION, GO TO THE JUPYTER NOTEBOOK IN THIS REPO.
+
+
 ## Updates as of October 22nd: Programming steps so far
 Zoe Zirlin, Oct. 22 2020
 
